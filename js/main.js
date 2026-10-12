@@ -428,7 +428,7 @@ document.addEventListener("DOMContentLoaded", () => {
   setInterval(updateCountdown, 1000);
 
   /* ============ 8. WHATSAPP RSVP ============ */
-  const RSVP_PHONE = Q.get("phone") || "9412506570";
+  const RSVP_PHONE = Q.get("phone") || "8791336690";
   const rsvpBtn = document.getElementById("rsvp-send");
   const rsvpForm = document.getElementById("rsvp-form");
   const rsvpDone = document.getElementById("rsvp-done");
